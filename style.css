@@ -1,0 +1,32 @@
+
+.navbar, .container, ul, li, a,  .navbar-collapse, .navbar-toggler-icon, footer{
+     
+    background-color: #328E6E;
+}
+
+.jumbotron{
+    background-color: #90C67C;
+    padding-top: 7rem ;
+}
+#about {
+    background-color: #67AE6E;
+}
+#contact{
+    background-color: #90C67C; 
+}
+#projects{
+    background-color: #67AE6E;
+}
+
+section{
+    padding-top: 7rem;
+}
+
+#hobiskill{
+    background-color: #90C67C;
+}
+.hobiskill{
+    background-color: #90C67C;
+    list-style: none;
+}
+
